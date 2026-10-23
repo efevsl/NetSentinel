@@ -10,7 +10,8 @@
 
 # NetSentinel
 
-**Windows için sade, hızlı ve yönetici yetkili bir komut satırı aracı.**
+**Windows için NetSupport School ve Manager vs. sürümlerin açığını kullanarak Internet erişimini bağlantı koparmadan
+geri kıran/açan bir yazılım.**
 
 <br>
 
@@ -31,15 +32,6 @@
 
 ---
 
-## ✨ Özellikler
-
-- 🔐 **Otomatik yönetici yükseltmesi** — çalıştırınca gerekli izni kendisi ister
-- 🎨 **Renkli & temiz arayüz** — ANSI renkleriyle okunaklı menü
-- ⚡ **Anında işlem** — tek tuşla seçim
-- 🪶 **Bağımlılık yok** — sadece Windows, başka bir şey kurmaya gerek yok
-
----
-
 ## 🚀 Kullanım
 
 1. `NetSentinel.bat` dosyasına **çift tıkla**.
@@ -47,7 +39,7 @@
 3. Açılan menüden yapmak istediğin işlemi seç:
 
 ```
-[1] İnternet Bağlantısını Kır
+[1] NetSupport İnternet Bağlantısını Kır
 [0] Çıkış
 ```
 
@@ -63,15 +55,34 @@
 
 ---
 
-## 📌 Sürüm
+## 📌 Sürüm Notları (Resmi)
 
-**v1.0.0** — ilk kararlı sürüm.
+**v1.0.0** — ilk kararlı sürüm. Şu anlık sadece İnternet Kesimini geri açtırma/kırmayı otomatikleştirir.
+
+---
+
+## ⚖️ Sorumluluk Reddi Beyanı (Disclaimer)
+
+Bu yazılım yalnızca eğitim, araştırma ve kişisel kullanım amacıyla geliştirilmiştir.
+
+Eğitim Odaklı: Bu araç sistem yönetimi, süreç kontrolü ve betik geliştirme eğitimleri kapsamında hazırlanmıştır.
+
+Ticari Olmayan Amaç: Ticari veya kötü niyetli kullanım amaçlarıyla dağıtılamaz veya kullanılamaz.
+
+Sorumluluk Sınırı: Yazılımın çalıştırılmasından, durdurulan süreçlerden veya sistem üzerinde meydana gelebilecek herhangi bir doğrudan/dolaylı aksaklıktan geliştirici sorumlu tutulamaz.
+
+Kullanıcı İradesi: Uygulamayı çalıştırmak ve kullanmak tamamen kullanıcının kendi hür iradesi ve sorumluluğundadır.
+
+Yasal Düzenlemeler: Yürürlükteki yasalara, platform kurallarına ve üçüncü taraf hizmet sözleşmelerine uygun hareket etmek bütünüyle kullanıcının yükümlülüğündedir.
+
+[!IMPORTANT]
+Bu programın çalıştırılmasından doğan tüm yasal ve teknik sorumluluk işlemi gerçekleştiren kişiye aittir. Proje; bilgi paylaşımı, analiz ve betik otomasyonunu inceleme amacıyla açık olarak sunulmaktadır.
 
 ---
 
 <div align="center">
 
-Made with ❤️ by **Efe E. K.**
+Made with ❤️ by **Efe Emre KAYA**
 
 [![GitHub](https://img.shields.io/badge/GitHub-efevsl-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/efevsl)
 
