@@ -58,6 +58,7 @@ geri açan bir yazılım.**
 ## 📌 Sürüm Notları (Resmi)
 
 **v1.0.1** — github.com/efevsl'deki Yanlış banlanma sonucu tekrar yayınlama. NetSupport v14.00.10 sürümü ve öncesindekinde çalışıyor. Sonrası için test edilmedi.
+
 **v1.0.0** — ilk kararlı sürüm. Şu anlık sadece İnternet Kesimini geri açtırma/kırmayı otomatikleştirir.
 
 ---
