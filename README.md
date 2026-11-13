@@ -10,8 +10,8 @@
 
 # NetSentinel
 
-**Windows için NetSupport School ve Manager vs. sürümlerin açığını kullanarak Internet erişimini bağlantı koparmadan
-geri kıran/açan bir yazılım.**
+**Windows için Internet erişimini bağlantı koparmadan
+geri açan bir yazılım.**
 
 <br>
 
@@ -39,7 +39,7 @@ geri kıran/açan bir yazılım.**
 3. Açılan menüden yapmak istediğin işlemi seç:
 
 ```
-[1] NetSupport İnternet Bağlantısını Kır
+[1] NetSupport İnternet Bağlantısını Düzelt
 [0] Çıkış
 ```
 
@@ -57,6 +57,7 @@ geri kıran/açan bir yazılım.**
 
 ## 📌 Sürüm Notları (Resmi)
 
+**v1.0.1** — github.com/efevsl'deki Yanlış banlanma sonucu tekrar yayınlama. NetSupport v14.00.10 sürümü ve öncesindekinde çalışıyor. Sonrası için test edilmedi.
 **v1.0.0** — ilk kararlı sürüm. Şu anlık sadece İnternet Kesimini geri açtırma/kırmayı otomatikleştirir.
 
 ---
